@@ -2,7 +2,6 @@
 title: "About me"
 permalink: /
 excerpt: "About me"
-layout: posts
 author_profile: true
 ---
 
