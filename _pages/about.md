@@ -15,4 +15,4 @@ I have also spent time living abroad in Kenya and Malawi, working with the U.S. 
 
 <!--  -->
 
-Outside of work, I love to make ice cream and <a href='https://www.parkrun.org.uk/'>Parkrun</a> with my family. 
+Outside of work, I love to make ice cream and <a href='https://www.parkrun.org.uk/'>parkrun</a> with my family. 

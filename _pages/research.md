@@ -60,7 +60,7 @@ Fornace KM, <strong>Topazian HM</strong>, Routledge I, Asyraf S, Kelip J, Lindbl
 <strong> Household prevalence of P. falciparum, P. vivax, and P. ovale in the Democratic Republic of the Congo, 2013-2014.</strong> <br>
 Mitchell CL\*, <strong>Topazian HM</strong>\*, Brazeau NF, Deutsch-Feldman M, Muwonga J, Sompwe E, Tshefu AK, Mwandagalirwa MK, Parr JB, Juliano JJ (2021) <i> Clinical Infectious Diseases </i> 73(11):e3966-3969.
 <br>
-<a href="https://doi.org/10.1136/bmjgh-2021-005447"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> 
+<a href="https://doi.org/10.1093/cid/ciaa1772"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> 
 
 \* Equal contribution
 <br>
