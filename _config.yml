@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hillary Mariko Topazian"
 description              : &description "personal description"
-url                      : https://htopazian.github.io/ 
+url                      : https://htopazian.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "htopazian/htopazian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,8 +83,8 @@ author:
   name             : "Hillary Mariko Topazian"
   avatar           : "/images/headshot_Topazian_square2.jpg"
   bio              : "Post-doc in Malaria Epidemiology"
-  location         : "United Kingdom"
-  employer         : "Imperial College London"
+  location         : "Imperial College London, United Kingdom"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hillary+topazian"
   googlescholar    : "https://scholar.google.com/citations?user=Is-oP-EAAAAJ&hl=en"
   email            : "h.topazian@imperial.ac.uk"
