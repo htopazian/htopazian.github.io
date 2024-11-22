@@ -18,7 +18,7 @@ author_profile: true
 <li> <strong> Gender inequality in publications:</strong> Women and ethnic minorities are underrepresented among authors of scientific publications. In both the UK and the US, there are also fewer women appointed to full-time faculty than men, despite more women obtaining bachelor's, master's, and doctoral degrees than men, a trend which also follows for ethnic minority groups. I am working with a team to characterize the representation of women and ethnic minorities at Imperial College London's School of Public Health. We are hoping that this work will inform strategies to increase representation and remove barriers to publication and career advancement in our field.</li>
 </ul>
 
-<li> <strong> Community engagement:</strong> Innovation in malaria tools and increased funding can save more than 13.2 million lives over the next 15 years. I am one of the malaria modellers contributing to the "Zero Malaria Experience", a film collaboration and public interactive installation with Malaria No More UK, the Mill (a creative community), David Beckham, and global public health leaders. <a href='https://www.x.zeromalaria.org/'>Check it out!</a> </li>
+<li> <strong> Community engagement:</strong> Innovation in malaria tools and increased funding can save more than 13.2 million lives over the next 15 years. I am one of the malaria modellers contributing to the "Zero Malaria Experience", a film collaboration and public interactive installation with Malaria No More UK, the Mill (a creative community), David Beckham, and global public health leaders. <a href='https://www.x.zeromalaria.org/'>Check it out</a>!</li>
 </ul>
 
 <!--  -->
